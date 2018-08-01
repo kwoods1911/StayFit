@@ -106,9 +106,6 @@ h1{
 		 .dropbtn:hover{
 		 	border-radius: 5px;
 		 }
-
-
-
 /*Navigation bar*/
 .navbar{
 overflow: hidden;
@@ -176,7 +173,7 @@ h1{
 #showcase .bg_image{
 	padding-top: 200px;
 	position: absolute;
-	background: url('../../images/slide_img02.jpg');
+	background: url('../../images/compressed images/slide_img02.jpg');
 	background-position:center;
 	background-repeat: no-repeat;
 	background-size: cover;
